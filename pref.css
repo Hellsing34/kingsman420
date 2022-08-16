@@ -1,0 +1,23 @@
+*{
+    color:aqua;
+    background-color:rosybrown;
+}
+/* }
+{
+    font-weight: 300px;
+} */
+#nft_site{
+    color: aqua;
+    width: 900px;
+    background-color: rebeccapurple;
+    border-radius: 60px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding: 10px;
+    font-size: 60px;
+    font-style:oblique;
+    margin-right: 70px;
+    margin-left: 200px;
+}
+        

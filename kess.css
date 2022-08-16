@@ -1,0 +1,38 @@
+*{
+    color:green;
+    background-color:whitw;
+}
+/* }
+{
+    font-weight: 300px;
+} */
+
+#nft_site{
+    color: red;
+    width: 900px;
+    background-color: orange;
+    border-radius: 60px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding: 10px;
+    font-size: 72px;
+    font-style:oblique;
+    margin-right: 70px;
+    margin-left: 200px;
+}
+        
+#ntf_site{
+    color: blue;
+    width: 900px;
+    background-color: pink;
+    border-radius: 60px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding: 10px;
+    font-size: 71.5px;
+    font-style:oblique;
+    margin-right: 70px;
+    margin-left: 200px;
+}
